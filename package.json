@@ -1,8 +1,8 @@
 {
-  "homepage": "https://alyessam132.github.io/github-portfolio",
+  "homepage": "https://alyessam132.github.io/github-portfolio/",
   "name": "Portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
